@@ -107,19 +107,6 @@ When I write code, I prioritize strict separation of concerns, explicit thread-s
 
 ---
 
-### Activity & Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beratfkl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Berat's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beratfkl&layout=compact&theme=tokyonight&hide_border=true" width="46%" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beratfkl&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+  <i>"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra</i>
 </div>
